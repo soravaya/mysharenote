@@ -49,4 +49,3 @@ PRs are welcome. Focus on Sharenote FEP compliance, pool-operator workflows, and
 
 Creative Commons CC0 1.0 Universal
 
-o
